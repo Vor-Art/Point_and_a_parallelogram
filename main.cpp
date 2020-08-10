@@ -17,7 +17,7 @@ int main() {
 			if (y5 == nY) pos[i] = 2;//equal
 			if (y5 < nY) pos[i] = 3;//under
 		}
-		std::cout<<pos[i]; 
+		//std::cout<<pos[i]; 
 	}
 	std::cout<< std::endl;
 	for (int i=0;i<4;i++){
